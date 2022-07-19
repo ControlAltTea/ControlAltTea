@@ -41,16 +41,8 @@ Hello, my name is Tea. I am a fullstack software engineer using the MERN stack, 
         <p><strong>Javascript, HTML, CSS, & Netlify</strong> - This API testing is being used to pull different pieces of information from the Studio Ghibli API found at: <a href="https://ghibliapi.herokuapp.com/films/">https://ghibliapi.herokuapp.com/films/</a></p>
     </td>
 
-  <tr>
-    <td width="10%" valign="top">
-      <h3 align="center">teamelendez.netlify</h3>
-      <br />
-        <a target="_blank" href="https://teamelendez.netlify.app/">
-          <img src="images/portfolio.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/ControlAltTea/teaportfolio" target="_blank">
+  <!-- <tr> -->
+  <td><a href="https://github.com/ControlAltTea/teaportfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="http://shawncharles.com" target="_blank">
@@ -59,14 +51,6 @@ Hello, my name is Tea. I am a fullstack software engineer using the MERN stack, 
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    <!-- <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
-        <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
-        </a>
-        <br />
-        <p align="center">
           
   <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
