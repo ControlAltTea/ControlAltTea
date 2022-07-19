@@ -30,35 +30,7 @@
         <br />
         <p><strong>JavaScript, HTML5, CSS3, MongoDB, EJS</strong> - This user management system allows users to create, read, update, and delete user information stored in the system's database.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Find Your Ghibli</h3>
-        <br />
-        <a target="_blank" href="https://findyourghibli.netlify.app/">
-            <img src="images/ghibli01.gif" width="100%" alt="Travel App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/ControlAltTea/StudioGhibli" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://findyourghibli.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>JavaScript, HTML5, CSS3, & Netlify</strong> - This API testing is being used to pull different pieces of information from the Studio Ghibli API found at: <a href="https://ghibliapi.herokuapp.com/films/">https://ghibliapi.herokuapp.com/films/</a></p>
-    </td>
-  </tr>        
-  <!--   <p align="center">
-        </p>
-        <a href="https://github.com/ControlAltTea/StudioGhibli" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://findyourghibli.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a> -->
-  <tr>
-    <td width="50%" valign="top">
+ <td width="50%" valign="top">
             <h3 align="center">Tea's Portfolio</h3>
         <br />
         <a target="_blank" href="https://teamelendez.netlify.app/">
@@ -76,6 +48,17 @@
       </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
+  </tr>        
+  <!--   <p align="center">
+        </p>
+        <a href="https://github.com/ControlAltTea/StudioGhibli" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://findyourghibli.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a> -->
+  <tr>
+  
 <td width="50%" valign="top">
             <h3 align="center">Tea's Instrument Kit</h3>
         <br />
@@ -94,6 +77,24 @@
       </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - Any interactive instrument kit, including drums, piano, and guitar via your web browser!</p>
 </td>
+<td width="50%" valign="top">
+      <h3 align="center">Find Your Ghibli</h3>
+        <br />
+        <a target="_blank" href="https://findyourghibli.netlify.app/">
+            <img src="images/ghibli01.gif" width="100%" alt="Travel App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/ControlAltTea/StudioGhibli" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://findyourghibli.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>JavaScript, HTML5, CSS3, & Netlify</strong> - This API testing is being used to pull different pieces of information from the Studio Ghibli API found at: <a href="https://ghibliapi.herokuapp.com/films/">https://ghibliapi.herokuapp.com/films/</a></p>
+    </td>
 </tr>
 
 <tr>
