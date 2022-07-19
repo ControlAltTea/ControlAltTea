@@ -129,7 +129,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>C# and Unity Engine</strong> - A game in exercing shaders. The premise is your basic i-Spy game! Find the item on the list before the clock runs out.</p>
+        <p><strong>C# in the Unity Engine, Blender, and Substance Painter</strong> - A game in exercing shaders. The premise is your basic i-Spy game! Find the item on the list before the clock runs out.</p>
     </td>
 </tr>
 </table>
