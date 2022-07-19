@@ -76,10 +76,7 @@
       </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-</tr>
-
-<tr>
- <td width="50%" valign="top">
+<td width="50%" valign="top">
             <h3 align="center">Tea's Instrument Kit</h3>
         <br />
         <a target="_blank" href="https://teasinstrumentkit.netlify.app/">
@@ -97,6 +94,9 @@
       </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - Any interactive instrument kit, including drums, piano, and guitar via your web browser!</p>
 </td>
+</tr>
+
+<tr>
  <td width="50%" valign="top">
             <h3 align="center">Clocks App (WIP)</h3>
         <br />
@@ -115,10 +115,7 @@
       </p>
         <p><strong>JavaScript & React (Pending)</strong> - A clock app that can display the weather depending on the zip code or location entered by the user. This project is still currently in development.</p>
     </td>
-</tr>
-
-<tr>
- <td width="50%" valign="top">
+  <td width="50%" valign="top">
             <h3 align="center">Brewery Finder</h3>
         <br />
             <img src="images/brewery.gif" width="100%" alt="Drum Kit"/>
@@ -135,6 +132,9 @@
       </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - Need to find a brewery local to you? Enter your city and see if we can find any nearby!</p>
 </td>
+</tr>
+
+<tr>
  <td width="50%" valign="top">
             <h3 align="center">iSpy Game</h3>
         <br />
