@@ -4,7 +4,8 @@
 
 Hello, my name is Tea. I am a fullstack software engineer using the MERN stack, with a background in game design and special education, making the transition to web development leading with accessibility at every step of development. If you see anything that requires better means of accessibility, please feel free to submit a PR and we can collaborate!
 
-## Below are my various networks: 
+## Below are my various networks:
+
 <p align="center">
   <a href="https://teamelendez.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -40,10 +41,27 @@ Hello, my name is Tea. I am a fullstack software engineer using the MERN stack, 
         <p><strong>Javascript, HTML, CSS, & Netlify</strong> - This API testing is being used to pull different pieces of information from the Studio Ghibli API found at: <a href="https://ghibliapi.herokuapp.com/films/">https://ghibliapi.herokuapp.com/films/</a></p>
     </td>
 
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">teamelendez.netlify</h3>
+      <br />
+        <a target="_blank" href="https://teamelendez.netlify.app/">
+          <img src="images/portfolio.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/ControlAltTea/teaportfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://shawncharles.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+</table>
 
-          
 <h1 align="center">Technologies</h1>
-
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
@@ -67,8 +85,6 @@ Hello, my name is Tea. I am a fullstack software engineer using the MERN stack, 
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
 </p>
-
-
 
 <!--
 **ControlAltTea/ControlAltTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
