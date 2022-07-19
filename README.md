@@ -21,15 +21,6 @@
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
 <tr>
-<td width="50%" valign="top">
-      <h3 align="center">User Management System</h3>
-        <br />
-        <a target="_blank" href="">
-            <img src="images/crudapp.gif" width="100%" alt="Travel App"/>
-        </a>
-        <br />
-        <p><strong>JavaScript, HTML5, CSS3, MongoDB, EJS</strong> - This user management system allows users to create, read, update, and delete user information stored in the system's database.</p>
-    </td>
  <td width="50%" valign="top">
             <h3 align="center">Tea's Portfolio</h3>
         <br />
@@ -47,6 +38,15 @@
   </a>
       </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+<td width="50%" valign="top">
+      <h3 align="center">User Management System</h3>
+        <br />
+        <a target="_blank" href="">
+            <img src="images/crudapp.gif" width="100%" alt="Travel App"/>
+        </a>
+        <br />
+        <p><strong>JavaScript, HTML5, CSS3, MongoDB, EJS</strong> - This user management system allows users to create, read, update, and delete user information stored in the system's database.</p>
     </td>
   </tr>        
   <!--   <p align="center">
