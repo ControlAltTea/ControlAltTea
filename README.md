@@ -41,9 +41,9 @@ Hello, my name is Tea. I am a fullstack software engineer using the MERN stack, 
         <p><strong>Javascript, HTML, CSS, & Netlify</strong> - This API testing is being used to pull different pieces of information from the Studio Ghibli API found at: <a href="https://ghibliapi.herokuapp.com/films/">https://ghibliapi.herokuapp.com/films/</a></p>
     </td>
     <td width="50%" valign="top">
-            <h3 align="center">Find Your Ghibli</h3>
+            <h3 align="center">Tea's Portfolio</h3>
         <br />
-        <a target="_blank" href="https://findyourghibli.netlify.app/">
+        <a target="_blank" href="https://teamelendez.netlify.app/">
             <img src="images/portfolio.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
@@ -58,25 +58,27 @@ Hello, my name is Tea. I am a fullstack software engineer using the MERN stack, 
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    <!-- <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+</tr>
+<tr>
+ <td width="50%" valign="top">
+            <h3 align="center">Tea's Instrument Kit</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://teasinstrumentkit.netlify.app/">
+            <img src="images/drumkit.gif" width="100%" alt="Drum Kit"/>
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+
+  <a href="https://github.com/ControlAltTea/Instrument-Kit#instrument-kit" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://teasinstrumentkit.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
-    </td> 
-  </tr> -->
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Any interactive instrument kit, including drums, piano, and guitar via your web browser!</p>
+    </td>
+</tr>
 </table>
 
 <h1 align="center">Technologies</h1>
@@ -84,24 +86,12 @@ Hello, my name is Tea. I am a fullstack software engineer using the MERN stack, 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
 </p>
 
 <!--
