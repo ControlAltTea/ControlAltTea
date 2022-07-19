@@ -40,8 +40,6 @@ Hello, my name is Tea. I am a fullstack software engineer using the MERN stack, 
       </p>
         <p><strong>Javascript, HTML, CSS, & Netlify</strong> - This API testing is being used to pull different pieces of information from the Studio Ghibli API found at: <a href="https://ghibliapi.herokuapp.com/films/">https://ghibliapi.herokuapp.com/films/</a></p>
     </td>
-
-  <tr>
     <td width="50%" valign="top">
             <h3 align="center">Find Your Ghibli</h3>
         <br />
