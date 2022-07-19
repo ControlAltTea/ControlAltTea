@@ -110,7 +110,7 @@
   <a href="https://github.com/ControlAltTea/BreweryFinder" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://api.openbrewerydb.org/breweries?by_city=los_angeles" target="_blank">
+  <a href="https://www.openbrewerydb.org/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=API&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
