@@ -1,4 +1,6 @@
-### Hi there 👋
+# Welcome to ControlAltTea!
+
+<img src="/images/banner.png" width="100%">
 
 <!--
 **ControlAltTea/ControlAltTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
