@@ -4,7 +4,7 @@
 
 Hello, my name is Tea. I am a fullstack software engineer using the MERN stack, with a background in game design and special education, making the transition to web development leading with accessibility at every step of development. If you see anything that requires better means of accessibility, please feel free to submit a PR and we can collaborate!
 
-Below are my various networks: 
+## Below are my various networks: 
 <p align="center">
   <a href="https://teamelendez.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
