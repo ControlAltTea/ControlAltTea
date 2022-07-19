@@ -20,6 +20,26 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
+<tr>
+<td width="50%" valign="top">
+      <h3 align="center">User Management System</h3>
+        <br />
+        <a target="_blank" href="">
+            <img src="images/crudapp.gif" width="100%" alt="Travel App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <!-- <a href="https://github.com/ControlAltTea/StudioGhibli" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://findyourghibli.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a> -->
+      </p>
+        <p><strong>JavaScript, HTML5, CSS3, MongoDB, EJS</strong> - This user management system allows users to create, read, update, and delete user information stored in the system's database.</p>
+    </td>
+</tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Find Your Ghibli</h3>
