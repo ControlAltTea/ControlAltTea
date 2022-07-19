@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JavaScript and React (Pending)</strong> - A clock app that can display the weather depending on the zip code or location entered by the user. This project is still currently in development.</p>
+        <p><strong>JavaScript & React (Pending)</strong> - A clock app that can display the weather depending on the zip code or location entered by the user. This project is still currently in development.</p>
     </td>
 </tr>
 
@@ -129,7 +129,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>C# in the Unity Engine, Blender, and Substance Painter</strong> - A game in exercing shaders. The premise is your basic i-Spy game! Find the item on the list before the clock runs out.</p>
+        <p><strong>C# in the Unity Engine, Blender, & Substance Painter</strong> - A game in exercing shaders. The premise is your basic i-Spy game! Find the item on the list before the clock runs out.</p>
     </td>
 </tr>
 </table>
