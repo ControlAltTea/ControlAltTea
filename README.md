@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3, & Netlify</strong> - This API testing is being used to pull different pieces of information from the Studio Ghibli API found at: <a href="https://ghibliapi.herokuapp.com/films/">https://ghibliapi.herokuapp.com/films/</a></p>
+        <p><strong>JavaScript, HTML5, CSS3, & Netlify</strong> - This API testing is being used to pull different pieces of information from the Studio Ghibli API found at: <a href="https://ghibliapi.herokuapp.com/films/">https://ghibliapi.herokuapp.com/films/</a></p>
     </td>
     <td width="50%" valign="top">
             <h3 align="center">Tea's Portfolio</h3>
@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, & JavaScript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
 </tr>
 
@@ -76,7 +76,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Any interactive instrument kit, including drums, piano, and guitar via your web browser!</p>
+        <p><strong>HTML5, CSS3, & JavaScript</strong> - Any interactive instrument kit, including drums, piano, and guitar via your web browser!</p>
 </td>
  <td width="50%" valign="top">
             <h3 align="center">Clocks App (WIP)</h3>
@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript and React (Pending)</strong> - A clock app that can display the weather depending on the zip code or location entered by the user. This project is still currently in development.</p>
+        <p><strong>JavaScript and React (Pending)</strong> - A clock app that can display the weather depending on the zip code or location entered by the user. This project is still currently in development.</p>
     </td>
 </tr>
 
@@ -114,7 +114,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=API&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Need to find a brewery local to you? Enter your city and see if we can find any nearby!</p>
+        <p><strong>HTML5, CSS3, & JavaScript</strong> - Need to find a brewery local to you? Enter your city and see if we can find any nearby!</p>
 </td>
  <td width="50%" valign="top">
             <h3 align="center">iSpy Game</h3>
