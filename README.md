@@ -43,9 +43,12 @@
       <h3 align="center">User Management System</h3>
         <br />
         <a target="_blank" href="">
-            <img src="images/crudapp.gif" width="100%" alt="Travel App"/>
+            <img src="images/crudapp.gif" width="100%" alt="User Management App"/>
         </a>
         <br />
+         <a href="https://github.com/ControlAltTea/CRUD" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
         <p><strong>JavaScript, HTML5, CSS3, MongoDB, EJS</strong> - This user management system allows users to create, read, update, and delete user information stored in the system's database.</p>
     </td>
   </tr>        
