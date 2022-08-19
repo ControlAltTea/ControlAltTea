@@ -2,7 +2,7 @@
 
 <img src="/images/banner.png" width="100%">
 
-### Hello, my name is Tea. I am a fullstack software engineer using the MERN stack, with a background in game design and special education, making the transition to web design leading with accessibility at every step of development. If you see anything that requires better means of accessibility, please feel free to submit a PR and we can collaborate!
+### Hello, my name is Tea. I am a fullstack software engineer using the MERN stack, with a background in game design and special education, leading with accessibility at every step of development. If you see anything that requires better means of accessibility, please feel free to submit a PR and we can collaborate!
 
 ## Below are my various networks:
 
