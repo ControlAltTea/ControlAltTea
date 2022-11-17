@@ -64,7 +64,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
             </a>
         </p>
-        <p><strong>HTML, CSS3, Handlebars (.hbs), MongoDB, & JavaScript</strong> - Using Google Authorization and Handlebar partials, this web app allows the user to create a blog style application.</p>
+        <p><strong>HTML5, CSS3, Handlebars (.hbs), MongoDB, & JavaScript</strong> - Using Google Authorization and Handlebar partials, this web app allows the user to create a blog style application.</p>
     </td>
 </tr>        
 <tr>
