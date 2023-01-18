@@ -131,6 +131,20 @@ your hub of choice for computer repair and customization"</p>
   </tr>
 
 <tr>
+<td width="50%" valign="top">
+        <h3 align="center">Take the Cake Cafe</h3>
+        <br />
+            <a>
+                <img src="images/takethecakecafe.gif" width="100%" alt="take-the-cake-cafe"/>
+            </a>
+        <br />
+        <p align="center">
+            <a href="https://takethecakecafe.netlify.app/home" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
+            </a>
+        </p>
+        <p><strong>HTML5, CSS3, & JavaScript</strong> - "During 10 years of service, Take the Cake has "your mom's favorite" baked goods for everyone to enjoy. Coupled with warm, flavorful coffee, your experience is bound to be one of comfort, familitarity, and home."</p>
+    </td>
  <td width="50%" valign="top">
             <h3 align="center">iSpy Game</h3>
         <br />
