@@ -36,7 +36,7 @@
 <table bordercolor="#66b2b2">
 <tr>
    <td width="50%" valign="top">
-        <h3 align="center">Tea's Portfolio</h3>
+        <h3 align="center">Portfolio</h3>
         <br />
             <a target="_blank" href="https://teamelendez.netlify.app/">
                 <img src="images/portfolio.gif" width="100%" alt="Travel App"/>
