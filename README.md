@@ -116,10 +116,7 @@
         </p>
         <p><strong>JavaScript, HTML5, CSS3, & Netlify</strong> - This API testing is being used to pull different pieces of information from the Studio Ghibli API found at: <a href="https://ghibliapi.herokuapp.com/films/">https://ghibliapi.herokuapp.com/films/</a></p>
     </td>
-</tr>
-
-<tr>
-    <td width="50%" valign="top">
+ <td width="50%" valign="top">
         <h3 align="center">Brewery Finder</h3>
         <br />
             <a>
@@ -136,6 +133,9 @@
         </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - Need to find a brewery local to you? Enter your city and see if we can find any nearby!</p>
     </td>
+  </tr>
+
+<tr>
  <td width="50%" valign="top">
             <h3 align="center">iSpy Game</h3>
         <br />
