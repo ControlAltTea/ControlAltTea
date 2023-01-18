@@ -100,38 +100,33 @@
 
 <tr>
     <td width="50%" valign="top">
-        <h3 align="center">Find Your Ghibli</h3>
+        <h3 align="center">Fresh Cuts by Jae</h3>
         <br />
-            <a target="_blank" href="https://findyourghibli.netlify.app/">
-                <img src="images/ghibli01.gif" width="100%" alt="Travel App"/>
+            <a target="_blank" href="https://freshcutsbyjae.netlify.app/">
+                <img src="images/freshcutsbyjae.gif" width="100%" alt="fresh-cuts-by-jae"/>
             </a>
         <br />
         <p align="center">
-            <a href="https://github.com/ControlAltTea/StudioGhibli" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&logo=github&logo-color=white"/>
-            </a>  
-            <a href="https://findyourghibli.netlify.app/" target="_blank">
+            <a href="https://freshcutsbyjae.netlify.app/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
             </a>
         </p>
-        <p><strong>JavaScript, HTML5, CSS3, & Netlify</strong> - This API testing is being used to pull different pieces of information from the Studio Ghibli API found at: <a href="https://ghibliapi.herokuapp.com/films/">https://ghibliapi.herokuapp.com/films/</a></p>
+        <p><strong>JavaScript, HTML5, CSS3, & Netlify</strong> - "As a family-owned business, we at Fresh Cuts by Jae take the utmost care in your cut's precision. Through modern sculpting, your cuts will have you leaving feel fresh and confident in your appearance."</p>
     </td>
  <td width="50%" valign="top">
-        <h3 align="center">Brewery Finder</h3>
+        <h3 align="center">CtrlAltDelete</h3>
         <br />
             <a>
-                <img src="images/brewery.gif" width="100%" alt="Drum Kit"/>
+                <img src="images/controlaltdelete.gif" width="100%" alt="Drum Kit"/>
             </a>
         <br />
         <p align="center">
-            <a href="https://github.com/ControlAltTea/BreweryFinder" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&logo=github&logo-color=white"/>
-            </a>
-            <a href="https://www.openbrewerydb.org/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=API&color=cdf998&logo=wordpress&logo-color=white"/>
+            <a href="https://ctrlaltdelete.netlify.app/home" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
             </a>
         </p>
-        <p><strong>HTML5, CSS3, & JavaScript</strong> - Need to find a brewery local to you? Enter your city and see if we can find any nearby!</p>
+        <p><strong>HTML5, CSS3, & JavaScript</strong> - "Welcome to CtrlAltDelete,
+your hub of choice for computer repair and customization"</p>
     </td>
   </tr>
 
