@@ -19,7 +19,19 @@
 </p>
 
 
-<h1 align="center">Technologies</h1>
+
+
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">GitHub Statistic</h3>
+
+![Tea Melendez's GitHub statistics.](https://github-readme-stats.vercel.app/api?username=ControlAltTea&show_icons=true&theme=gruvbox)
+
+![Tea Melendez's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ControlAltTea&layout=compact&theme=gruvbox)
+
+  </td>
+  <td>
+    <h1 align="center">Technologies</h1>
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&logo=html5"/>
@@ -31,12 +43,9 @@
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&logo=git"/>
 </p>
+  </td>
+</tr>
 
-## GitHub Statistics
-
-![Tea Melendez's GitHub statistics.](https://github-readme-stats.vercel.app/api?username=ControlAltTea&show_icons=true&theme=gruvbox)
-
-![Tea Melendez's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ControlAltTea&layout=compact&theme=gruvbox)
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
