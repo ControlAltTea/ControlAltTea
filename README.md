@@ -30,7 +30,7 @@
 ![Tea Melendez's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ControlAltTea&layout=compact&theme=gruvbox)
 
   </td>
-  <td>
+<td width="50%" valign="top">
     <h1 align="center">Technologies</h1>
 
 <p align="center">
