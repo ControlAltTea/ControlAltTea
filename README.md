@@ -50,7 +50,8 @@
     <li><img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&logo=git"/>
     </li>
   </ul>
-<p align="center">
+</td>
+<!-- <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&logo=javascript"/>
@@ -59,8 +60,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&logo=git"/>
-</p>
-  </td>
+</p> -->
 </tr>
 
 
