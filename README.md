@@ -22,7 +22,7 @@
 
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="top">
 <h3 align="center">GitHub Statistic</h3>
 
 ![Tea Melendez's GitHub statistics.](https://github-readme-stats.vercel.app/api?username=ControlAltTea&show_icons=true&theme=gruvbox)
@@ -33,7 +33,7 @@
 <td width="50%" valign="top">
 <h1 align="center">Technologies</h1>
 
-  <ul>
+  <ul align="center">
     <li><img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&logo=html5"/>
     </li>
     <li><img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&logo=css3"/></li>
