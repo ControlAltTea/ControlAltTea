@@ -31,8 +31,25 @@
 
   </td>
 <td width="50%" valign="top">
-    <h1 align="center">Technologies</h1>
+<h1 align="center">Technologies</h1>
 
+  <ul>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&logo=html5"/>
+    </li>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&logo=css3"/></li>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&logo=javascript"/>
+    </li>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&logo=react"/>
+    </li>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&logo=adobe"/>
+    </li>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&logo=mongodb"/>
+    </li>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&logo=express"/>
+    </li>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&logo=git"/>
+    </li>
+  </ul>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&logo=css3"/>
