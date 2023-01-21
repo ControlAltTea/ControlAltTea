@@ -29,8 +29,8 @@
 
 ![Tea Melendez's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ControlAltTea&layout=compact&theme=gruvbox)
 
-  </td>
-<td width="50%" valign="top">
+ </td>
+<td width="50%" align="top">
 <h1 align="center">Technologies</h1>
 
   <ul align="center">
