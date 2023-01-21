@@ -32,6 +32,12 @@
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&logo=git"/>
 </p>
 
+## GitHub Statistics
+
+![Tea Melendez's GitHub statistics.](https://github-readme-stats.vercel.app/api?username=ControlAltTea&show_icons=true&theme=gruvbox)
+
+![Tea Melendez's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ControlAltTea&layout=compact&theme=gruvbox)
+
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
 <tr>
