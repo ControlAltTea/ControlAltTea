@@ -17,21 +17,17 @@
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&logo=twitter&logo-color=white"/>
   </a>
 </p>
-
-
-
-
 <tr>
-<td width="50%" align="top">
-<h3 align="left">GitHub Statistic</h3>
+<td width="50%" align="left">
+<h3 align="center">GitHub Statistic</h3>
 
 ![Tea Melendez's GitHub statistics.](https://github-readme-stats.vercel.app/api?username=ControlAltTea&show_icons=true&theme=gruvbox)
 
 ![Tea Melendez's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ControlAltTea&layout=compact&theme=gruvbox)
 
  </td>
-<td width="50%" align="top">
-<h1 align="right">Technologies</h1>
+<td width="50%" align="right">
+<h1 align="center">Technologies</h1>
 
   <ul align="center">
     <li><img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&logo=html5"/>
