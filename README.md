@@ -190,7 +190,7 @@ your hub of choice for computer repair and customization"</p>
 </tr>
 </table>
 
-<h3 align="center">GitHub Statistic</h3>
+<h3 align="center">GitHub Statistics</h3>
 
 ![Tea Melendez's GitHub statistics.](https://github-readme-stats.vercel.app/api?username=ControlAltTea&show_icons=true&theme=gruvbox)
 
