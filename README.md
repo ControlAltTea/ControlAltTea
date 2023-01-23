@@ -8,34 +8,61 @@
 
 <p align="center">
   <a href="https://teamelendez.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/teresamelendez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/CtrlAltTea" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&logo=twitter&logo-color=white"/>
   </a>
 </p>
 
+<h2 align="center">Technologies</h2>
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&logo=adobe"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&logo=git"/>
+</p>
+<!-- <tr>
+<td width="50%" align="left">
 
+
+ </td>
+<td width="50%" align="right">
 <h1 align="center">Technologies</h1>
 
-<p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-</p>
+  <ul align="center">
+    <li><img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&logo=html5"/>
+    </li>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&logo=css3"/></li>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&logo=javascript"/>
+    </li>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&logo=react"/>
+    </li>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&logo=adobe"/>
+    </li>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&logo=mongodb"/>
+    </li>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&logo=express"/>
+    </li>
+    <li><img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&logo=git"/>
+    </li>
+  </ul>
+</td> -->
+<!--  -->
+</tr>
+
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
 <tr>
-   <td width="50%" valign="top">
+     <td width="50%" valign="top">
         <h3 align="center">Portfolio</h3>
         <br />
             <a target="_blank" href="https://teamelendez.netlify.app/">
@@ -44,15 +71,34 @@
         <br />
         <p align="center">
             <a href="https://github.com/ControlAltTea/teaportfolio" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&logo=github&logo-color=white"/>
             </a>
             <a href="https://teamelendez.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
             </a>
         </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    <td width="50%" valign="top">
+   <td width="50%" valign="top">
+        <h3 align="center">Fitness App</h3>
+        <br />
+            <a target="_blank" href="https://fitness-typescript-ls5.pages.dev/">
+                <img src="images/fitness-typescript.gif" width="100%" alt="fitness-app"/>
+            </a>
+        <br />
+        <p align="center">
+            <a href="https://github.com/ControlAltTea/fitness-typescript" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&logo=github&logo-color=white"/>
+            </a>
+            <a href="https://fitness-typescript-ls5.pages.dev/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
+            </a>
+        </p>
+        <p><strong>HTML5, CSS3, React, Vite & TypeScript</strong> - Unrivaled Gym. Unparalleled Training Fitness Classes. World Class Studios to get the Body Shapes That you Dream of.. Get Your Dream Body Now.</p>
+    </td>
+</tr>        
+<tr>
+      <td width="50%" valign="top">
         <h3 align="center">Real Estate Concierge</h3>
         <br />
             <a target="_blank" href="[https://reconcierge.biz/](https://reconcierge.biz/)">
@@ -61,13 +107,11 @@
         <br />
         <p align="center">
             <a href="https://reconcierge.biz/" target="_blank">            
-              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
             </a>
         </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - At Real Estate Concierge, our goal as your personal Transaction Coordinating Team is to assist you, the Agent, in all TC matters of the transaction, from Listing to Close, to help you leverage your time.</p>
     </td>
-</tr>        
-<tr>
       <td width="50%" valign="top">
         <h3 align="center">Stories App with Google Auth</h3>
         <br />
@@ -77,12 +121,15 @@
         <br />
         <p align="center">
             <a href="https://github.com/ControlAltTea/StoriesApp_GoogleAuth" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&logo=github&logo-color=white"/>
             </a>
         </p>
         <p><strong>HTML5, CSS3, Handlebars (.hbs), MongoDB, & JavaScript</strong> - Using Google Authorization and Handlebar partials, this web app allows the user to create a blog style application.</p>
     </td>
-    <td width="50%" valign="top">
+</tr>
+
+<tr>
+      <td width="50%" valign="top">
         <h3 align="center">User Management System</h3>
         <br />
     <p align="center">
@@ -91,69 +138,66 @@
         </a>
         <br />
             <a href="https://github.com/ControlAltTea/CRUD" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&logo=github&logo-color=white"/>
     </a>
     </p>
         <p><strong>JavaScript, HTML5, CSS3, MongoDB, EJS</strong> - This user management system allows users to create, read, update, and delete user information stored in the system's database.</p>
     </td>
-</tr>
-
-<tr>
     <td width="50%" valign="top">
-        <h3 align="center">Find Your Ghibli</h3>
+        <h3 align="center">Fresh Cuts by Jae</h3>
         <br />
-            <a target="_blank" href="https://findyourghibli.netlify.app/">
-                <img src="images/ghibli01.gif" width="100%" alt="Travel App"/>
-            </a>
-        <br />
-        <p align="center">
-            <a href="https://github.com/ControlAltTea/StudioGhibli" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-            </a>  
-            <a href="https://findyourghibli.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-            </a>
-        </p>
-        <p><strong>JavaScript, HTML5, CSS3, & Netlify</strong> - This API testing is being used to pull different pieces of information from the Studio Ghibli API found at: <a href="https://ghibliapi.herokuapp.com/films/">https://ghibliapi.herokuapp.com/films/</a></p>
-    </td>
- <td width="50%" valign="top">
-        <h3 align="center">Brewery Finder</h3>
-        <br />
-            <a>
-                <img src="images/brewery.gif" width="100%" alt="Drum Kit"/>
+            <a target="_blank" href="https://freshcutsbyjae.netlify.app/">
+                <img src="images/freshcutsbyjae.gif" width="100%" alt="fresh-cuts-by-jae"/>
             </a>
         <br />
         <p align="center">
-            <a href="https://github.com/ControlAltTea/BreweryFinder" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-            </a>
-            <a href="https://www.openbrewerydb.org/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=API&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            <a href="https://freshcutsbyjae.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
             </a>
         </p>
-        <p><strong>HTML5, CSS3, & JavaScript</strong> - Need to find a brewery local to you? Enter your city and see if we can find any nearby!</p>
+        <p><strong>JavaScript, HTML5, CSS3, & Netlify</strong> - "As a family-owned business, we at Fresh Cuts by Jae take the utmost care in your cut's precision. Through modern sculpting, your cuts will have you leaving feel fresh and confident in your appearance."</p>
     </td>
+
   </tr>
 
 <tr>
- <td width="50%" valign="top">
-            <h3 align="center">iSpy Game</h3>
+   <td width="50%" valign="top">
+        <h3 align="center">CtrlAltDelete</h3>
         <br />
-        <a target="_blank" href="https://github.com/ControlAltTea/ISpyGame">
-            <img src="images/ispy.gif" width="100%" alt="I Spy Game in Unity"/>
-        </a>
+            <a>
+                <img src="images/controlaltdelete.gif" width="100%" alt="Drum Kit"/>
+            </a>
         <br />
         <p align="center">
-
-  <a href="https://github.com/ControlAltTea/ISpyGame" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>C# in the Unity Engine, Blender, & Substance Painter</strong> - A game in exercing shaders. The premise is your basic i-Spy game! Find the item on the list before the clock runs out.</p>
+            <a href="https://ctrlaltdelete.netlify.app/home" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
+            </a>
+        </p>
+        <p><strong>HTML5, CSS3, & JavaScript</strong> - "Welcome to CtrlAltDelete,
+your hub of choice for computer repair and customization"</p>
+    </td>
+<td width="50%" valign="top">
+        <h3 align="center">Take the Cake Cafe</h3>
+        <br />
+            <a>
+                <img src="images/takethecakecafe.gif" width="100%" alt="take-the-cake-cafe"/>
+            </a>
+        <br />
+        <p align="center">
+            <a href="https://takethecakecafe.netlify.app/home" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
+            </a>
+        </p>
+        <p><strong>HTML5, CSS3, & JavaScript</strong> - "During 10 years of service, Take the Cake has "your mom's favorite" baked goods for everyone to enjoy. Coupled with warm, flavorful coffee, your experience is bound to be one of comfort, familitarity, and home."</p>
     </td>
 </tr>
 </table>
 
+<h3 align="center">GitHub Statistics</h3>
+
+![Tea Melendez's GitHub statistics.](https://github-readme-stats.vercel.app/api?username=ControlAltTea&show_icons=true&theme=gruvbox)
+
+![Tea Melendez's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ControlAltTea&layout=compact&theme=gruvbox)
 <!--
 **ControlAltTea/ControlAltTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
