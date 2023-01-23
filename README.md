@@ -94,7 +94,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
             </a>
         </p>
-        <p><strong>HTML5, CSS3, React, Vite & TypeScript</strong> - Unrivaled Gym. Unparalleled Training Fitness Classes. World Class Studios to get the Body Shapes That you Dream of.. Get Your Dream Body Now.</p>
+        <p><strong>HTML5, CSS3,  Tailwind, React, Vite & TypeScript</strong> - Unrivaled Gym. Unparalleled Training Fitness Classes. World Class Studios to get the Body Shapes That you Dream of.. Get Your Dream Body Now.</p>
     </td>
 </tr>        
 <tr>
