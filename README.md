@@ -62,7 +62,7 @@
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
 <tr>
-   <td width="50%" valign="top">
+     <td width="50%" valign="top">
         <h3 align="center">Portfolio</h3>
         <br />
             <a target="_blank" href="https://teamelendez.netlify.app/">
@@ -79,7 +79,26 @@
         </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-    <td width="50%" valign="top">
+   <td width="50%" valign="top">
+        <h3 align="center">Fitness App</h3>
+        <br />
+            <a target="_blank" href="https://fitness-typescript-ls5.pages.dev/">
+                <img src="images/fitness-typescript.gif" width="100%" alt="fitness-app"/>
+            </a>
+        <br />
+        <p align="center">
+            <a href="https://github.com/ControlAltTea/fitness-typescript" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&logo=github&logo-color=white"/>
+            </a>
+            <a href="https://fitness-typescript-ls5.pages.dev/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
+            </a>
+        </p>
+        <p><strong>HTML5, CSS3, React, Vite & TypeScript</strong> - Unrivaled Gym. Unparalleled Training Fitness Classes. World Class Studios to get the Body Shapes That you Dream of.. Get Your Dream Body Now.</p>
+    </td>
+</tr>        
+<tr>
+      <td width="50%" valign="top">
         <h3 align="center">Real Estate Concierge</h3>
         <br />
             <a target="_blank" href="[https://reconcierge.biz/](https://reconcierge.biz/)">
@@ -93,8 +112,6 @@
         </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - At Real Estate Concierge, our goal as your personal Transaction Coordinating Team is to assist you, the Agent, in all TC matters of the transaction, from Listing to Close, to help you leverage your time.</p>
     </td>
-</tr>        
-<tr>
       <td width="50%" valign="top">
         <h3 align="center">Stories App with Google Auth</h3>
         <br />
@@ -109,7 +126,10 @@
         </p>
         <p><strong>HTML5, CSS3, Handlebars (.hbs), MongoDB, & JavaScript</strong> - Using Google Authorization and Handlebar partials, this web app allows the user to create a blog style application.</p>
     </td>
-    <td width="50%" valign="top">
+</tr>
+
+<tr>
+      <td width="50%" valign="top">
         <h3 align="center">User Management System</h3>
         <br />
     <p align="center">
@@ -123,9 +143,6 @@
     </p>
         <p><strong>JavaScript, HTML5, CSS3, MongoDB, EJS</strong> - This user management system allows users to create, read, update, and delete user information stored in the system's database.</p>
     </td>
-</tr>
-
-<tr>
     <td width="50%" valign="top">
         <h3 align="center">Fresh Cuts by Jae</h3>
         <br />
@@ -140,7 +157,11 @@
         </p>
         <p><strong>JavaScript, HTML5, CSS3, & Netlify</strong> - "As a family-owned business, we at Fresh Cuts by Jae take the utmost care in your cut's precision. Through modern sculpting, your cuts will have you leaving feel fresh and confident in your appearance."</p>
     </td>
- <td width="50%" valign="top">
+
+  </tr>
+
+<tr>
+   <td width="50%" valign="top">
         <h3 align="center">CtrlAltDelete</h3>
         <br />
             <a>
@@ -155,9 +176,6 @@
         <p><strong>HTML5, CSS3, & JavaScript</strong> - "Welcome to CtrlAltDelete,
 your hub of choice for computer repair and customization"</p>
     </td>
-  </tr>
-
-<tr>
 <td width="50%" valign="top">
         <h3 align="center">Take the Cake Cafe</h3>
         <br />
@@ -171,21 +189,6 @@ your hub of choice for computer repair and customization"</p>
             </a>
         </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - "During 10 years of service, Take the Cake has "your mom's favorite" baked goods for everyone to enjoy. Coupled with warm, flavorful coffee, your experience is bound to be one of comfort, familitarity, and home."</p>
-    </td>
- <td width="50%" valign="top">
-            <h3 align="center">iSpy Game</h3>
-        <br />
-        <a target="_blank" href="https://github.com/ControlAltTea/ISpyGame">
-            <img src="images/ispy.gif" width="100%" alt="I Spy Game in Unity"/>
-        </a>
-        <br />
-        <p align="center">
-
-  <a href="https://github.com/ControlAltTea/ISpyGame" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&logo=github&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>C# in the Unity Engine, Blender, & Substance Painter</strong> - A game in exercing shaders. The premise is your basic i-Spy game! Find the item on the list before the clock runs out.</p>
     </td>
 </tr>
 </table>
