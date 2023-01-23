@@ -87,7 +87,7 @@
             </a>
         <br />
         <p align="center">
-            <a href="https://github.com/ControlAltTea/fitness-typescript.gif" target="_blank">
+            <a href="https://github.com/ControlAltTea/fitness-typescript" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&logo=github&logo-color=white"/>
             </a>
             <a href="https://fitness-typescript-ls5.pages.dev/" target="_blank">
