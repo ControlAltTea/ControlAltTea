@@ -192,12 +192,6 @@ your hub of choice for computer repair and customization"</p>
     </td>
 </tr>
 </table>
-
-<h3 align="center">GitHub Statistics</h3>
-
-![Tea Melendez's GitHub statistics.](https://github-readme-stats.vercel.app/api?username=ControlAltTea&show_icons=true&theme=gruvbox)
-
-![Tea Melendez's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ControlAltTea&layout=compact&theme=gruvbox)
 <!--
 **ControlAltTea/ControlAltTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
