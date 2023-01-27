@@ -173,7 +173,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
             </a>
         </p>
-        <p><strong>HTML5, CSS3, & JavaScript</strong> - "Welcome to CtrlAltDelete,
+        <p><strong>HTML5, CSS3, JavaScript, & Netlify</strong> - "Welcome to CtrlAltDelete,
 your hub of choice for computer repair and customization"</p>
     </td>
 <td width="50%" valign="top">
@@ -188,7 +188,7 @@ your hub of choice for computer repair and customization"</p>
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
             </a>
         </p>
-        <p><strong>HTML5, CSS3, & JavaScript</strong> - "During 10 years of service, Take the Cake has "your mom's favorite" baked goods for everyone to enjoy. Coupled with warm, flavorful coffee, your experience is bound to be one of comfort, familitarity, and home."</p>
+        <p><strong>HTML5, CSS3, JavaScript, & Netlify</strong> - "During 10 years of service, Take the Cake has "your mom's favorite" baked goods for everyone to enjoy. Coupled with warm, flavorful coffee, your experience is bound to be one of comfort, familitarity, and home."</p>
     </td>
 </tr>
 </table>
