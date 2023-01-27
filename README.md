@@ -110,7 +110,7 @@
               <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
             </a>
         </p>
-        <p><strong>HTML5, CSS3, JavaScript, & Cloudflare</strong> - At Real Estate Concierge, our goal as your personal Transaction Coordinating Team is to assist you, the Agent, in all TC matters of the transaction, from Listing to Close, to help you leverage your time.</p>
+        <p><strong>HTML5, CSS3, JavaScript, & Netlify</strong> - At Real Estate Concierge, our goal as your personal Transaction Coordinating Team is to assist you, the Agent, in all TC matters of the transaction, from Listing to Close, to help you leverage your time.</p>
     </td>
       <td width="50%" valign="top">
         <h3 align="center">Stories App with Google Auth</h3>
