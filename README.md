@@ -10,10 +10,10 @@
   <a href="https://teamelendez.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&logo=react&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/teresamelendez/" target="_blank">
+  <a href="https://www.linkedin.com/in/teamelendez/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/CtrlAltTea" target="_blank">
+  <a href="https://twitter.com/tea_sharp" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&logo=twitter&logo-color=white"/>
   </a>
 </p>
