@@ -49,7 +49,7 @@
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <a href="https://teamelendez.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
+            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
             </a>
         </p>
         <p><strong>HTML5, CSS3, & JavaScript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
