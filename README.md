@@ -96,7 +96,7 @@
         <br />
         <p align="center">
             <a href="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&logo=github&logo-color=white"/>
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
         </p>
         <p><strong>HTML5, CSS3, Handlebars (.hbs), MongoDB, & JavaScript</strong> - Using Google Authorization and Handlebar partials, this web app allows the user to create a blog style application.</p>
