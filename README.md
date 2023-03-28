@@ -62,7 +62,7 @@
     <li><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
     </li>
     <li><img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&logo=git"/>
-    </li>
+    </li>`
     <li><img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&logo=adobe"/>
     </li>
     <li><img src="	https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
