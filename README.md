@@ -10,10 +10,10 @@
   <a href="https://teamelendez.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&logo=react&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/teresamelendez/" target="_blank">
+  <a href="https://www.linkedin.com/in/teamelendez/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/CtrlAltTea" target="_blank">
+  <a href="https://twitter.com/tea_sharp" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&logo=twitter&logo-color=white"/>
   </a>
 </p>
@@ -128,7 +128,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
             </a>
         </p>
-        <p><strong>HTML5, CSS3, React, Vite & TypeScript</strong> - Unrivaled Gym. Unparalleled Training Fitness Classes. World Class Studios to get the Body Shapes That you Dream of.. Get Your Dream Body Now.</p>
+        <p><strong>HTML5, CSS3,  Tailwind, React, Vite, TypeScript, & Cloudflare</strong> - Unrivaled Gym. Unparalleled Training Fitness Classes. World Class Studios to get the Body Shapes That you Dream of.. Get Your Dream Body Now.</p>
     </td>
 </tr>        
 <tr>
@@ -144,7 +144,7 @@
               <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
             </a>
         </p>
-        <p><strong>HTML5, CSS3, & JavaScript</strong> - At Real Estate Concierge, our goal as your personal Transaction Coordinating Team is to assist you, the Agent, in all TC matters of the transaction, from Listing to Close, to help you leverage your time.</p>
+        <p><strong>HTML5, CSS3, JavaScript, & Netlify</strong> - At Real Estate Concierge, our goal as your personal Transaction Coordinating Team is to assist you, the Agent, in all TC matters of the transaction, from Listing to Close, to help you leverage your time.</p>
     </td>
       <td width="50%" valign="top">
         <h3 align="center">Stories App with Google Auth</h3>
@@ -207,7 +207,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
             </a>
         </p>
-        <p><strong>HTML5, CSS3, & JavaScript</strong> - "Welcome to CtrlAltDelete,
+        <p><strong>HTML5, CSS3, JavaScript, & Netlify</strong> - "Welcome to CtrlAltDelete,
 your hub of choice for computer repair and customization"</p>
     </td>
 <td width="50%" valign="top">
@@ -222,16 +222,18 @@ your hub of choice for computer repair and customization"</p>
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&logo=wordpress&logo-color=white"/>
             </a>
         </p>
-        <p><strong>HTML5, CSS3, & JavaScript</strong> - "During 10 years of service, Take the Cake has "your mom's favorite" baked goods for everyone to enjoy. Coupled with warm, flavorful coffee, your experience is bound to be one of comfort, familitarity, and home."</p>
+        <p><strong>HTML5, CSS3, JavaScript, & Netlify</strong> - "During 10 years of service, Take the Cake has "your mom's favorite" baked goods for everyone to enjoy. Coupled with warm, flavorful coffee, your experience is bound to be one of comfort, familitarity, and home."</p>
     </td>
 </tr>
 </table>
+
 
 <h3 align="center">GitHub Statistics</h3>
 
 ![Tea Melendez's GitHub statistics.](https://github-readme-stats.vercel.app/api?username=ControlAltTea&show_icons=true&theme=gruvbox)
 
 ![Tea Melendez's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ControlAltTea&layout=compact&theme=gruvbox)
+
 
 <!--
 **ControlAltTea/ControlAltTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
