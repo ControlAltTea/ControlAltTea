@@ -31,10 +31,6 @@
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&logo=git"/>
 </p>
 <!-- <tr>
 <td width="50%" align="left">
