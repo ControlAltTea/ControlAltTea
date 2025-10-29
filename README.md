@@ -13,9 +13,6 @@ Hello, my name is Tea. I am a fullstack software engineer using the **MERN (Mong
   <a href="https://www.linkedin.com/in/teamelendez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/tea_sharp" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
 </p>
 
 <h2 align="center">Technologies</h2>
